@@ -1,0 +1,6 @@
+{
+  "name": "MetroRide City Mobility",
+  "description": "Single-city ride-hailing platform connecting Riders, Drivers, and City Operations with real-time dispatch, PostgreSQL ledgering, and Android PWA installability.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
